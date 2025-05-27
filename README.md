@@ -7,8 +7,6 @@ Name: Video Game Sales Dataset
 
 Source: Kaggle (original), manually cleaned in Excel for SQL import
 
-Link: Video Game Sales 2019 – Kaggle 
-
 Columns: 14 — Name, Platform, Genre, Developer, Publisher, Year_of_Release, Sales(5), Scores(2), Rating
 
 Record Count: 15,751 rows (after cleaning)
